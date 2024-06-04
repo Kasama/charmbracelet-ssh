@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	gossh "golang.org/x/crypto/ssh"
+	gossh "github.com/Kasama/golang-x-crypto/ssh"
 )
 
 var sampleServerResponse = []byte("Hello world")

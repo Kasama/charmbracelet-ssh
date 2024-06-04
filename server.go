@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	gossh "golang.org/x/crypto/ssh"
+	gossh "github.com/Kasama/golang-x-crypto/ssh"
 )
 
 // ErrServerClosed is returned by the Server's Serve, ListenAndServe,

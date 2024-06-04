@@ -7,7 +7,7 @@ import (
 	"path"
 	"sync"
 
-	gossh "golang.org/x/crypto/ssh"
+	gossh "github.com/Kasama/golang-x-crypto/ssh"
 )
 
 const (

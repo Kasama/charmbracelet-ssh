@@ -6,7 +6,7 @@ package ssh
 import (
 	"os/exec"
 
-	"golang.org/x/crypto/ssh"
+	"github.com/Kasama/golang-x-crypto/ssh"
 )
 
 type impl struct{}

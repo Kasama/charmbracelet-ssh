@@ -9,7 +9,7 @@ import (
 
 	"github.com/charmbracelet/x/termios"
 	"github.com/creack/pty"
-	"golang.org/x/crypto/ssh"
+	"github.com/Kasama/golang-x-crypto/ssh"
 	"golang.org/x/sys/unix"
 )
 
