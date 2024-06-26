@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/charmbracelet/ssh"
+	"github.com/Kasama/charmbracelet-ssh"
 )
 
 func main() {

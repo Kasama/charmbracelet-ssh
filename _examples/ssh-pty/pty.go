@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/charmbracelet/ssh"
+	"github.com/Kasama/charmbracelet-ssh"
 	"github.com/creack/pty"
 )
 

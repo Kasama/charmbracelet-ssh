@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/charmbracelet/ssh"
+	"github.com/Kasama/charmbracelet-ssh"
 )
 
 func ExampleListenAndServe() {

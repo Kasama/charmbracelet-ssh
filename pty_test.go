@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/charmbracelet/ssh"
+	"github.com/Kasama/charmbracelet-ssh"
 )
 
 func TestNewPtyWriter(t *testing.T) {

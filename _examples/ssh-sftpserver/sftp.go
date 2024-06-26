@@ -5,7 +5,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/charmbracelet/ssh"
+	"github.com/Kasama/charmbracelet-ssh"
 	"github.com/pkg/sftp"
 )
 

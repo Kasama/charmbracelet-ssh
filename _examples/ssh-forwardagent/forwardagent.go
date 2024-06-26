@@ -5,7 +5,7 @@ import (
 	"log"
 	"os/exec"
 
-	"github.com/charmbracelet/ssh"
+	"github.com/Kasama/charmbracelet-ssh"
 )
 
 func main() {
