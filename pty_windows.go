@@ -9,8 +9,8 @@ import (
 	"os/exec"
 	"syscall"
 
-	"github.com/charmbracelet/x/conpty"
 	"github.com/Kasama/golang-x-crypto/ssh"
+	"github.com/charmbracelet/x/conpty"
 	"golang.org/x/sys/windows"
 )
 
